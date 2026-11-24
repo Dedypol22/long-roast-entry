@@ -30,7 +30,9 @@ def main():
 
     out_dir = output_dir()
     os.makedirs(out_dir, exist_ok=True)
-    with open(os.path.join(out_dir, "entry.txt"), "w", encoding="utf-8") as f:
+    # newline="" keeps the write byte-exact on any platform: the entry must
+    # be exactly the line, with no trailing newline added by text mode.
+    with open(os.path.join(out_dir, "entry.txt"), "w", encoding="utf-8", newline="") as f:
         f.write(line)
     return 0
 
