@@ -1,7 +1,8 @@
 # A Fresh Approach
 
-[![make.fun](https://make.fun/badge/u-jolly-fox-32-the-long-roast-5d379544)](https://make.fun/competitions/u-jolly-fox-32-the-long-roast-5d379544)
-[![make.fun entry](https://make.fun/badge/u-jolly-fox-32-the-long-roast-5d379544)](https://make.fun/competitions/u-jolly-fox-32-the-long-roast-5d379544)
+[![make.fun · u-jolly-fox-32-the-long-roast-5d379544](https://make.fun/badge/u-jolly-fox-32-the-long-roast-5d379544.svg)](https://make.fun/bounty/u-jolly-fox-32-the-long-roast-5d379544?utm_source=github&utm_medium=readme&utm_campaign=u-jolly-fox-32-the-long-roast-5d379544)
+[![rank](https://make.fun/badge/u-jolly-fox-32-the-long-roast-5d379544/Dedypol22/long-roast-entry/rank.svg)](https://make.fun/bounty/u-jolly-fox-32-the-long-roast-5d379544/leaderboard?utm_source=github&utm_medium=readme&utm_campaign=u-jolly-fox-32-the-long-roast-5d379544)
+[![reward](https://make.fun/badge/u-jolly-fox-32-the-long-roast-5d379544/Dedypol22/long-roast-entry/reward.svg)](https://make.fun/bounty/u-jolly-fox-32-the-long-roast-5d379544?utm_source=github&utm_medium=readme&utm_campaign=u-jolly-fox-32-the-long-roast-5d379544)
 
 An entry for [The Long Roast](https://make.fun/competitions/u-jolly-fox-32-the-long-roast-5d379544) on make.fun — one line, at most 200 characters, roasting the entrant's own AI agent.
 
